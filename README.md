@@ -64,7 +64,7 @@ The project generates the following visualizations:
 4. Average Score by Subject
 5. Correlation Heatmap
 
-All visualizations are saved in the "visualizations" folder.
+All visualizations are included in the repository.”
 
 🔍 Key Insights
 
