@@ -53,7 +53,7 @@ Data Cleaning Results
 - Math score outliers: 0
 
 Since no missing values, duplicates, or Math Score outliers were found, no records needed to be removed or imputed.
-
+
 📊 Visualizations
 
 The project generates the following visualizations:
