@@ -1,4 +1,4 @@
-Data Cleaning and Visualization of Student Performance Dataset
+vData Cleaning and Visualization of Student Performance Dataset
 
 📌 Project Overview
 
@@ -51,25 +51,22 @@ Since no missing values, duplicates, or Math Score outliers were found, no recor
 
 📊 Visualizations
 The project generates the following visualizations:
-1. Math Score Distribution
 
-"Math Score Distribution" (./math_score_distribution.png)
+1. Math Score Distribution
+![Math Score Distribution](./math_score_distribution.png)
 
 2. Study Hours vs Math Score
-
-"Study Hours vs Math Score" (./study_hours_vs_math.png)
+![Study Hours vs Math Score](./study_hours_vs_math.png)
 
 3. Math Score by Gender
-
-"Math Score by Gender" (./math_score_by_gender.png)
+![Math Score by Gender](./math_score_by_gender.png)
 
 4. Average Score by Subject
-
-"Average Score by Subject" (./average_subject_scores.png)
+![Average Score by Subject](./average_subject_scores.png)
 
 5. Correlation Heatmap
+![Correlation Heatmap](./correlation_heatmap.png)
 
-"Correlation Heatmap" (./correlation_heatmap.png)
 
 🔍 Key Insights
 
