@@ -43,14 +43,14 @@ The dataset was checked for:
 - Duplicate records
 - Data types
 - Statistical distribution
-- Math score outliers using the IQR method
+- Math Score outliers using the IQR method
 
 Data Cleaning Results
 
 - Total records: 100
 - Missing values: 0
 - Duplicate records: 0
-- Math score outliers: 0
+- Math Score outliers: 0
 
 Since no missing values, duplicates, or Math Score outliers were found, no records needed to be removed or imputed.
 
@@ -60,23 +60,23 @@ The project generates the following visualizations:
 
 1. Math Score Distribution
 
-![Math Score Distribution](math_score_distribution.png)
+"Math Score Distribution" (math_score_distribution.png)
 
 2. Study Hours vs Math Score
 
-![Study Hours vs Math Score](study_hours_vs_math.png)
+"Study Hours vs Math Score" (study_hours_vs_math.png)
 
 3. Math Score by Gender
 
-![Math Score by Gender](math_score_by_gender.png)
+"Math Score by Gender" (math_score_by_gender.png)
 
 4. Average Score by Subject
 
-![Average Score by Subject](average_subject_scores.png)
+"Average Score by Subject" (average_subject_scores.png)
 
 5. Correlation Heatmap
 
-![Correlation Heatmap](correlation_heatmap.png)
+"Correlation Heatmap" (correlation_heatmap.png)
 
 All visualizations are included in the repository.
 
@@ -90,11 +90,13 @@ All visualizations are included in the repository.
 - The correlation between Study Hours and Math Score is 0.98, showing a very strong positive association in this dataset.
 - The highest Math Score recorded is 98.
 
+«Note: The correlation indicates a strong association within this dataset; it does not by itself establish a causal relationship between study hours and Math Score.»
+
 📈 Conclusion
 
 This project demonstrates the basic workflow of data analysis: understanding the dataset, validating and cleaning the data, performing statistical analysis, creating visualizations, and extracting meaningful insights.
 
-The analysis shows that the dataset is already relatively clean, with no missing values, duplicate records, or detected Math Score outliers. The visualizations help communicate important patterns in student performance.
+The analysis shows that the dataset is relatively clean, with no missing values, duplicate records, or detected Math Score outliers. The visualizations help communicate important patterns in student performance.
 
 🚀 Future Improvements
 
