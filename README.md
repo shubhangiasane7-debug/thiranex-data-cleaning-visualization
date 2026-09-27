@@ -48,24 +48,28 @@ Missing values: 0
 Duplicate records: 0
 Math Score outliers: 0
 Since no missing values, duplicates, or Math Score outliers were found, no records needed to be removed or imputed.
-
 📊 Visualizations
 
 The project generates the following visualizations:
 
-Math Score Distribution
+1. Math Score Distribution
+
 "Math Score Distribution" (math_score_distribution.png)
 
-Study Hours vs Math Score
+2. Study Hours vs Math Score
+
 "Study Hours vs Math Score" (study_hours_vs_math.png)
 
-Math Score by Gender
+3. Math Score by Gender
+
 "Math Score by Gender" (math_score_by_gender.png)
 
-Average Score by Subject
+4. Average Score by Subject
+
 "Average Score by Subject" (average_subject_scores.png)
 
-Correlation Heatmap
+5. Correlation Heatmap
+
 "Correlation Heatmap" (correlation_heatmap.png)
 
 All visualizations are included in the repository.
