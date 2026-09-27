@@ -54,6 +54,7 @@ Data Cleaning Results
 
 Since no missing values, duplicates, or Math Score outliers were found, no records needed to be removed or imputed.
 
+
 📊 Visualizations
 
 The project generates the following visualizations:
@@ -80,12 +81,13 @@ The project generates the following visualizations:
 
 All visualizations are included in the repository.
 
+
 🔍 Key Insights
 
 - The average Math Score is 80.88.
 - The average Reading Score is 82.24.
 - The average Writing Score is 81.96.
-- The average study time is 4.51 hours.
+- The average study hours is 4.51 hours.
 - The average attendance is 85.27%.
 - The correlation between Study Hours and Math Score is 0.98, showing a very strong positive association in this dataset.
 - The highest Math Score recorded is 98.
